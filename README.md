@@ -7,6 +7,7 @@ according to the National Retail Federation (NRF). This figure represents a sign
 of overall retail sales, with an average return rate of around 16.9% for e-commerce. 
 
 📝 Project Documentation: Product Return Prediction System
+
 📌 Overview
 This project builds a machine learning model to predict the probability of a product being returned based on various features such as product details, order timing, customer segment, and pricing information. The model also uses SHAP (SHapley Additive exPlanations) for interpretable feature importance analysis and dimensionality reduction.
 
