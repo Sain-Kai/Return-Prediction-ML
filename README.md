@@ -86,7 +86,7 @@ grouped = df.groupby(['Sub-Category', 'Brand'])['Return_Prob'].mean()
 Result helps business stakeholders identify problematic brands for specific product lines.
 
 ✅ Results
-Achieved high predictive accuracy (~92%).
+Achieved high predictive accuracy (~97%).
 
 Generated clear, interpretable SHAP feature insights.
 
